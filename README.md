@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](github-header-image.png)
+![header](github-header-banner.png)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayasgo&label=Profile%20views&color=0e75b6&style=flat" alt="ayasgo" /> </p>
@@ -15,13 +15,13 @@
 - 💡 Founder & CEO of **MediTrack**, a SaaS platform for clinic management (Web & Desktop).  
 - 🔬 Internship at **Estaty (UAE)** → built *EstAIty*, an AI-powered data automation platform.  
 - 🌱 Passionate about **Full-Stack Development, AI/LLMs, and Automation**.  
-- 🏀 Interests: Basketball, Gaming, and Teaching AI (Head of AI Cell at CESE Club).  
+- 🏀 Interests: Basketball, Gaming.  
 
 ---
 
 <h3 align="left"> 📫 Connect With Me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aymane-askri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane askri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aymane-askri-1a4539254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane askri" height="30" width="40" /></a>
 <a href="mailto:1ayasgo@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
 </p>
 
@@ -72,7 +72,7 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-- **[MediTrack](https://www.meditrack.site/en/documentation)** → SaaS clinic management (Web & Desktop).  
+- **[MediTrack](https://www.meditrack.site)** → SaaS clinic management (Web & Desktop).  
 - **[EstAIty](https://www.youtube.com/watch?v=ewN-awv15uw)** → AI-powered automation for real estate data.  
 - **1337 School Canteen App** → Reduced waste & optimized meal management.  
 - **Predictive Drawing** → AI Canvas app predicting hand-drawn shapes.  
