@@ -17,13 +17,6 @@
 - 🌱 Passionate about **Full-Stack Development, AI/LLMs, and Automation**.  
 - 🏀 Interests: Basketball, Gaming.  
 
----
-
-<h3 align="left"> 📫 Connect With Me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aymane-askri-1a4539254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane askri" height="30" width="40" /></a>
-<a href="mailto:1ayasgo@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
-</p>
 
 ---
 
